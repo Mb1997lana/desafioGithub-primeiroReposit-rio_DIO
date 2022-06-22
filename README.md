@@ -14,4 +14,4 @@ Esse é uma continuação do vídeo anterior onde a Rafa mostra de maneira prát
 
 [Git Tutorial](https://github.com/Mb1997lana/GitTutorial)
 
-Nesse link, que já está no meu perfil do Github, é mostrado tudo o que a Rafa explicou no útimo vídeo. É literamente todo o roteiro passo a passo do que foi mostrado.
+Nesse link é mostrado tudo o que a Rafa explicou no útimo vídeo. É literamente todo o roteiro passo a passo do que foi mostrado.

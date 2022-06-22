@@ -1,0 +1,27 @@
+Link para download do Git: https://git-scm.com/downloads (Obs.: Seguir o passo a passo de download conforme o seu sistema operacional).
+*O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos básicos do Git:
+
+git init => Para iniciar um novo repositório;
+git add => Para adicionar determinado arquivo ao repositório antes de dar um commit;
+git commit (-m "messenger") => Para "salvar" seu arquivo no repositório e criar um ponto na linha do tempo de sua branch master;
+git remote add origin => Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o git remote add origin <link do repositório>
+*Obs.: o git remote só é executado se for a primeira vez que você faz uma conexão entre o seu repositório local e o Github. Após isso não será necessário utilizar esse comando, já pularemos para o comando seguinte:;
+
+git push => Esse comando literalmente empurra o repositóirio que está na sua máquina local para o servidor do Github;
+git branch -M "main" => Para alterar o nome da branch principal de master para main (isso é uma boa prática atualmente recomendada);
+git checkout -b => Para adicionar uma nova branch ao seu repositório;
+git checkout + nome da branch para qual deseja ir => Para mudar de uma branch para outra;
+git merge => Para unificar as branchs do repositório antes de dar um commit;
+git clone => Para baixar o repositório que está no nosso Github para a nossa máquina local;
+git pull => Caso haja uma alteração no repositório do Github depois que você já baixou esse mesmo repositório na sua máquina local, basta você executar o comando git pull para atualizar seu repositório local.
+
+Link Vídeo O Que é Git e Github: https://www.youtube.com/watch?v=DqTITcMq68k&t=10s
+Nesse vídeo a nossa querida Rafaella Ballerini explica de forma bem intuitiva conceitos básicos do Git e do Github e como utilizá-los;
+
+Link Vídeo Como Usar Git e Github Na Prática: https://www.youtube.com/watch?v=UBAX-13g8OM&t=920s
+Esse é uma continuação do vídeo anterior onde a Rafa mostra de maneira prática a utilização de todos aqueles conceitos já citados e a criação de um repositório no Github.
+
+Link Git Tutorial: https://github.com/Mb1997lana/GitTutorial
+Nesse link, que já está no meu perfil do Github, é mostrado tudo o que a Rafa explicou no útimo vídeo. è literamente todo o roteiro passo a passo do que foi mostrado.

@@ -6,8 +6,8 @@ Comandos básicos do Git:
 git init => Para iniciar um novo repositório;
 git add => Para adicionar determinado arquivo ao repositório antes de dar um commit;
 git commit (-m "messenger") => Para "salvar" seu arquivo no repositório e criar um ponto na linha do tempo de sua branch master;
-git remote add origin => Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o git remote add origin <link do repositório>
-*Obs.: o git remote só é executado se for a primeira vez que você faz uma conexão entre o seu repositório local e o Github. Após isso não será necessário utilizar esse comando, já pularemos para o comando seguinte:;
+git remote add origin => Para conectar seu repositório local com o seu repositório do Github, usamos o git remote add origin <link do repositório que foi gerado no Github>
+*Obs.: o git remote é executado apenas uma vez para "conectar" seu repositório local ao seu repositório do Github. Você só vai usá-lo novamente quando criar um novo repositório;
 
 git push => Esse comando literalmente empurra o repositóirio que está na sua máquina local para o servidor do Github;
 git branch -M "main" => Para alterar o nome da branch principal de master para main (isso é uma boa prática atualmente recomendada);

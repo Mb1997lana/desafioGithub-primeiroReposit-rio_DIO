@@ -22,7 +22,7 @@ Nesse link é mostrado tudo o que a Rafa explicou no útimo vídeo. É literamen
 
 ## HTML
 
-[HTML: Linguagem de Marcação de Hipertextp](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ## CSS
 

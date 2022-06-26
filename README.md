@@ -15,3 +15,15 @@ Esse é uma continuação do vídeo anterior onde a Rafa mostra de maneira prát
 [Git Tutorial](https://github.com/Mb1997lana/GitTutorial)
 
 Nesse link é mostrado tudo o que a Rafa explicou no útimo vídeo. É literamente todo o roteiro passo a passo do que foi mostrado.
+
+##
+
+# Anotações HTML5 e CSS3
+
+## HTML
+
+[HTML: Linguagem de Marcação de Hipertextp](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+## CSS
+
+[CSS | MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
